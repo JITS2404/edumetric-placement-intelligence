@@ -1,0 +1,5 @@
+{
+  "name": "EduMetric Placement Dashboard",
+  "description": "A dynamic visualization dashboard for calculating and analyzing student placement and internship performance scores based on configurable academic formulas.",
+  "requestFramePermissions": []
+}
